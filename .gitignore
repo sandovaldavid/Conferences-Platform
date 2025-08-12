@@ -31,3 +31,5 @@ coverage/
 *.zip
 *.bak
 *.tmp
+
+vendor/
